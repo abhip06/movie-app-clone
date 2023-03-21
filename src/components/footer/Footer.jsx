@@ -41,7 +41,7 @@ const Footer = () => {
           </span>
         </div>
         <div className="copyright-section">
-          <span>&copy; 2023 | www.moviezone.com | All Rights Reserved.</span>
+          <span>&copy; 2023 - All Rights Reserved.</span>
         </div>
       </ContentWrapper>
     </footer>
